@@ -50,3 +50,4 @@ while True: #implementamos un ciclo while infinito, que se ejecutará hasta que 
     contadorAnual=contadorAnual+1 #Contado de años que aumenta con cada iteracion del programa
     PaisA=CreciA #asignacion del nuevo valor del poblacion del pais 
     PaisB=CreciB
+    #Test
